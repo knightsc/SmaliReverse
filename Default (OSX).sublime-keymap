@@ -1,0 +1,5 @@
+[
+	{ "keys": ["super+alt+ctrl+right"], "command": "smali_forwards"},
+	{ "keys": ["super+alt+ctrl+left"], "command": "smali_backwards"},
+	{ "keys": ["super+alt+ctrl+enter"], "command": "smali_comment"}
+]
